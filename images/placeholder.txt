@@ -1,0 +1,8 @@
+Placeholder for project images.
+
+Planned images:
+- Macropad wiring diagram
+- OLED display layout
+- Physical build progress photos
+
+Images will be added as the project progresses.
